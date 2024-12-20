@@ -8,14 +8,12 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        FCD:ance company | FCD 무용단
       image:
         filename: welcome.jpg
       text: |
-        <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        <be>
+        영감과 미의 가치를 위해 움직이는 FCD 융복합 무용단 입니다 ✨
   
   - block: collection
     content:
