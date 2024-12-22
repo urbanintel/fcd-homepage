@@ -10,7 +10,7 @@ baseURL: 'https://fcdance.com/' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: kr
+defaultContentLanguage: en
 hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
