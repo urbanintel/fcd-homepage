@@ -14,7 +14,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: fcdance-intro.png
           filters:
             brightness: 1
           parallax: false
