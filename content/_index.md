@@ -83,7 +83,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./member/" cta_text="멤버소개 →" %}}
+        {{% cta cta_link="./contact/" cta_text="찾아오는곳 →" %}}
     design:
       columns: '1'
 ---
