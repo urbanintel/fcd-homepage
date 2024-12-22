@@ -4,8 +4,8 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Work
-    url: work
+  - name: Portfolio
+    url: portfolio
     weight: 10
   - name: Member
     url: member
