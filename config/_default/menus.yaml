@@ -7,12 +7,12 @@ main:
   - name: Portfolio
     url: portfolio
     weight: 10
-  - name: Member
-    url: member
-    weight: 20
-  - name: News
-    url: post
-    weight: 30
+#  - name: Member
+#    url: member
+#    weight: 20
+#  - name: News
+#    url: post
+#    weight: 30
   - name: Contact
     url: contact
     weight: 40
