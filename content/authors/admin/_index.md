@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 서윤신
+title: '서윤신'
 
 # Full Name (for SEO)
-first_name: 서
-last_name: 윤신
+first_name: '서'
+last_name: '윤신'
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 안무가/대표
+role: 안무가,대표
 
 # Organizations/Affiliations
 organizations:
@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: ''
 
-#interests:
+interests:
   - 현대무용
   - 스트릿댄스
   - 컨택트댄스
