@@ -33,7 +33,7 @@ sections:
       filters:
         folders:
           - portfolio
-        publication_type: 'article'
+        publication_type: 'article-grid'
     design:
       view: card
       columns: '1'
