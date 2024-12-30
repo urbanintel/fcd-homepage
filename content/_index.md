@@ -30,10 +30,7 @@ sections:
       title: Portfolio
       text: ""
       count: 5
-      filters:
-        folders:
-          - portfolio
-        publication_type: 'article-grid'
+      page_type: portfolio
     design:
       view: card
       columns: '1'
